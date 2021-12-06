@@ -1,1 +1,1 @@
-ldap_server = 'my.ldap.server.com'
+ldap_server = 'corporate.ldap.server.com'
